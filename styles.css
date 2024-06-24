@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px;
+    margin: 30px;
+
+}
+
+.button {
+
+    margin: 10px;
+    border-radius: 40px;
+    height: 50px;
+    width: 150px;
+    font-size: large;
+    cursor: pointer;
+
+}
+
+.button1 {
+
+    margin: 10px;
+    border-radius: 100px;
+    background-color: rgb(255, 123, 0);
+    color: white;
+    border: 100px;
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.button2 {
+
+    margin: 10px;
+    border: 100px;
+    padding: 10px;
+    background-color: deepskyblue;
+    color: white;
+    box-shadow:rgb(196, 193, 193) 10px 10px 10px;
+    height: 40px;
+    width: 140px;
+    font-size: large;
+    cursor: pointer;
+}
